@@ -1,0 +1,4 @@
+[book]
+title = "Hello mdBook"
+src = "."
+language = "en"
